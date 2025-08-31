@@ -24,7 +24,7 @@ This API is created by me for portofolio that will be used as backend for my app
 5. Create a database with the name #nama_database, and Import file sql to **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
 7. Choose HTTP Method and enter request url.(ex. localhost:3000/)
-8. You can see all the end point [here](https://documenter.getpostman.com/view/14780095/2sB2qcCLe1)
+8. You can see all the end point [here](https://documenter.getpostman.com/view/14780095/2sB3Hhs2dR)
 9. Type `npm start` to activated the server.
 
 ## Set up .env file
